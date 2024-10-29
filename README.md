@@ -1,1 +1,2 @@
-This repository contains source code and scripts that I have modified and used in the course of completing my tasks, as well as the evaluation results produced by SBY.The core script that calls SBY instead of JG is in multicore_vscale_rtl2uspec_ae-master\revised_script
+
+This work is a technical replication of RTL2uspec proposed by Prof. Yao Hsiao et al. This work  used the open-source tools of YOSYS rather than the commercial JasperGold software used by Prof. Yao Hsiao et al to exert formal verification of V-Scale microprocessor.
